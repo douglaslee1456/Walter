@@ -1,0 +1,2006 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+    <head>
+        <!-- NAME: 1 COLUMN - FULL WIDTH -->
+        <!--[if gte mso 15]>
+        <xml>
+            <o:OfficeDocumentSettings>
+            <o:AllowPNG/>
+            <o:PixelsPerInch>96</o:PixelsPerInch>
+            </o:OfficeDocumentSettings>
+        </xml>
+        <![endif]-->
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>*|MC:SUBJECT|*</title>
+        
+    <style type="text/css">
+		p{
+			margin:10px 0;
+			padding:0;
+		}
+		table{
+			border-collapse:collapse;
+		}
+		h1,h2,h3,h4,h5,h6{
+			display:block;
+			margin:0;
+			padding:0;
+		}
+		img,a img{
+			border:0;
+			height:auto;
+			outline:none;
+			text-decoration:none;
+		}
+		body,#bodyTable,#bodyCell{
+			height:100%;
+			margin:0;
+			padding:0;
+			width:100%;
+		}
+		.mcnPreviewText{
+			display:none !important;
+		}
+		#outlook a{
+			padding:0;
+		}
+		img{
+			-ms-interpolation-mode:bicubic;
+		}
+		table{
+			mso-table-lspace:0pt;
+			mso-table-rspace:0pt;
+		}
+		.ReadMsgBody{
+			width:100%;
+		}
+		.ExternalClass{
+			width:100%;
+		}
+		p,a,li,td,blockquote{
+			mso-line-height-rule:exactly;
+		}
+		a[href^=tel],a[href^=sms]{
+			color:inherit;
+			cursor:default;
+			text-decoration:none;
+		}
+		p,a,li,td,body,table,blockquote{
+			-ms-text-size-adjust:100%;
+			-webkit-text-size-adjust:100%;
+		}
+		.ExternalClass,.ExternalClass p,.ExternalClass td,.ExternalClass div,.ExternalClass span,.ExternalClass font{
+			line-height:100%;
+		}
+		a[x-apple-data-detectors]{
+			color:inherit !important;
+			text-decoration:none !important;
+			font-size:inherit !important;
+			font-family:inherit !important;
+			font-weight:inherit !important;
+			line-height:inherit !important;
+		}
+		.templateContainer{
+			max-width:600px !important;
+		}
+		a.mcnButton{
+			display:block;
+		}
+		.mcnImage,.mcnRetinaImage{
+			vertical-align:bottom;
+		}
+		.mcnTextContent{
+			word-break:break-word;
+		}
+		.mcnTextContent img{
+			height:auto !important;
+		}
+		.mcnDividerBlock{
+			table-layout:fixed !important;
+		}
+		body,#bodyTable{
+			background-color:#ffffff;
+		}
+		#bodyCell{
+			border-top:0;
+		}
+		h1{
+			color:#1a1515;
+			font-family:Helvetica;
+			font-size:26px;
+			font-style:normal;
+			font-weight:bold;
+			line-height:125%;
+			letter-spacing:normal;
+			text-align:left;
+		}
+		h2{
+			color:#202020;
+			font-family:Helvetica;
+			font-size:22px;
+			font-style:normal;
+			font-weight:bold;
+			line-height:125%;
+			letter-spacing:normal;
+			text-align:left;
+		}
+		h3{
+			color:#202020;
+			font-family:Helvetica;
+			font-size:20px;
+			font-style:normal;
+			font-weight:bold;
+			line-height:125%;
+			letter-spacing:normal;
+			text-align:left;
+		}
+		h4{
+			color:#202020;
+			font-family:Helvetica;
+			font-size:18px;
+			font-style:normal;
+			font-weight:bold;
+			line-height:125%;
+			letter-spacing:normal;
+			text-align:left;
+		}
+		#templatePreheader{
+			background-color:#transparent;
+			background-image:none;
+			background-repeat:no-repeat;
+			background-position:center;
+			background-size:cover;
+			border-top:0;
+			border-bottom:0;
+			padding-top:9px;
+			padding-bottom:9px;
+		}
+		#templatePreheader .mcnTextContent,#templatePreheader .mcnTextContent p{
+			color:#656565;
+			font-family:Helvetica;
+			font-size:12px;
+			line-height:150%;
+			text-align:left;
+		}
+		#templatePreheader .mcnTextContent a,#templatePreheader .mcnTextContent p a{
+			color:#1195bf;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+		#templateHeader{
+			background-color:#ffffff;
+			background-image:none;
+			background-repeat:no-repeat;
+			background-position:center;
+			background-size:cover;
+			border-top:0;
+			border-bottom:0;
+			padding-top:9px;
+			padding-bottom:0;
+		}
+		#templateHeader .mcnTextContent,#templateHeader .mcnTextContent p{
+			color:#202020;
+			font-family:Helvetica;
+			font-size:16px;
+			line-height:150%;
+			text-align:center;
+		}
+		#templateHeader .mcnTextContent a,#templateHeader .mcnTextContent p a{
+			color:#007C89;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+		#templateBody{
+			background-color:#ffffff;
+			background-image:none;
+			background-repeat:no-repeat;
+			background-position:center;
+			background-size:cover;
+			border-top:0;
+			border-bottom:0;
+			padding-top:9px;
+			padding-bottom:9px;
+		}
+		#templateBody .mcnTextContent,#templateBody .mcnTextContent p{
+			color:#1a1515;
+			font-family:Helvetica;
+			font-size:14px;
+			line-height:150%;
+			text-align:left;
+		}
+		#templateBody .mcnTextContent a,#templateBody .mcnTextContent p a{
+			color:#f25252;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+		#templateFooter{
+			background-color:#FAFAFA;
+			background-image:none;
+			background-repeat:no-repeat;
+			background-position:center;
+			background-size:cover;
+			border-top:0;
+			border-bottom:0;
+			padding-top:9px;
+			padding-bottom:9px;
+		}
+		#templateFooter .mcnTextContent,#templateFooter .mcnTextContent p{
+			color:#656565;
+			font-family:Helvetica;
+			font-size:12px;
+			line-height:150%;
+			text-align:center;
+		}
+		#templateFooter .mcnTextContent a,#templateFooter .mcnTextContent p a{
+			color:#656565;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+	@media only screen and (min-width:768px){
+		.templateContainer{
+			width:600px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		body,table,td,p,a,li,blockquote{
+			-webkit-text-size-adjust:none !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		body{
+			width:100% !important;
+			min-width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnRetinaImage{
+			max-width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImage{
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnCartContainer,.mcnCaptionTopContent,.mcnRecContentContainer,.mcnCaptionBottomContent,.mcnTextContentContainer,.mcnBoxedTextContentContainer,.mcnImageGroupContentContainer,.mcnCaptionLeftTextContentContainer,.mcnCaptionRightTextContentContainer,.mcnCaptionLeftImageContentContainer,.mcnCaptionRightImageContentContainer,.mcnImageCardLeftTextContentContainer,.mcnImageCardRightTextContentContainer,.mcnImageCardLeftImageContentContainer,.mcnImageCardRightImageContentContainer{
+			max-width:100% !important;
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnBoxedTextContentContainer{
+			min-width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageGroupContent{
+			padding:9px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnCaptionLeftContentOuter .mcnTextContent,.mcnCaptionRightContentOuter .mcnTextContent{
+			padding-top:9px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageCardTopImageContent,.mcnCaptionBottomContent:last-child .mcnCaptionBottomImageContent,.mcnCaptionBlockInner .mcnCaptionTopContent:last-child .mcnTextContent{
+			padding-top:18px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageCardBottomImageContent{
+			padding-bottom:9px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageGroupBlockInner{
+			padding-top:0 !important;
+			padding-bottom:0 !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageGroupBlockOuter{
+			padding-top:9px !important;
+			padding-bottom:9px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnTextContent,.mcnBoxedTextContentColumn{
+			padding-right:18px !important;
+			padding-left:18px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageCardLeftImageContent,.mcnImageCardRightImageContent{
+			padding-right:18px !important;
+			padding-bottom:0 !important;
+			padding-left:18px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcpreview-image-uploader{
+			display:none !important;
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		h1{
+			font-size:24px !important;
+			line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		h2{
+			font-size:16px !important;
+			line-height:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		h3{
+			font-size:18px !important;
+			line-height:125% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		h4{
+			font-size:16px !important;
+			line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnBoxedTextContentContainer .mcnTextContent,.mcnBoxedTextContentContainer .mcnTextContent p{
+			font-size:14px !important;
+			line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		#templatePreheader{
+			display:block !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		#templatePreheader .mcnTextContent,#templatePreheader .mcnTextContent p{
+			font-size:14px !important;
+			line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		#templateHeader .mcnTextContent,#templateHeader .mcnTextContent p{
+			font-size:18px !important;
+			line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		#templateBody .mcnTextContent,#templateBody .mcnTextContent p{
+			font-size:16px !important;
+			line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		#templateFooter .mcnTextContent,#templateFooter .mcnTextContent p{
+			font-size:14px !important;
+			line-height:150% !important;
+		}
+
+}</style></head>
+    <body style="height: 100%;margin: 0;padding: 0;width: 100%;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #ffffff;">
+        <!--*|IF:MC_PREVIEW_TEXT|*-->
+        <!--[if !gte mso 9]><!----><span class="mcnPreviewText" style="display:none; font-size:0px; line-height:0px; max-height:0px; max-width:0px; opacity:0; overflow:hidden; visibility:hidden; mso-hide:all;">*|MC_PREVIEW_TEXT|*</span><!--<![endif]-->
+        <!--*|END:IF|*-->
+        <center>
+            <table align="center" border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="bodyTable" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;height: 100%;margin: 0;padding: 0;width: 100%;background-color: #ffffff;">
+                <tr>
+                    <td align="center" valign="top" id="bodyCell" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;height: 100%;margin: 0;padding: 0;width: 100%;border-top: 0;">
+                        <!-- BEGIN TEMPLATE // -->
+                        <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                            <tr>
+                                <td align="center" valign="top" id="templatePreheader" style="background:#transparent none no-repeat center/cover;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #transparent;background-image: none;background-repeat: no-repeat;background-position: center;background-size: cover;border-top: 0;border-bottom: 0;padding-top: 9px;padding-bottom: 9px;">
+                                    <!--[if (gte mso 9)|(IE)]>
+                                    <table align="center" border="0" cellspacing="0" cellpadding="0" width="600" style="width:600px;">
+                                    <tr>
+                                    <td align="center" valign="top" width="600" style="width:600px;">
+                                    <![endif]-->
+                                    <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" class="templateContainer" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;max-width: 600px !important;">
+                                        <tr>
+                                            <td valign="top" class="preheaderContainer" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"></td>
+                                        </tr>
+                                    </table>
+                                    <!--[if (gte mso 9)|(IE)]>
+                                    </td>
+                                    </tr>
+                                    </table>
+                                    <![endif]-->
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center" valign="top" id="templateHeader" style="background:#ffffff none no-repeat center/cover;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #ffffff;background-image: none;background-repeat: no-repeat;background-position: center;background-size: cover;border-top: 0;border-bottom: 0;padding-top: 9px;padding-bottom: 0;">
+                                    <!--[if (gte mso 9)|(IE)]>
+                                    <table align="center" border="0" cellspacing="0" cellpadding="0" width="600" style="width:600px;">
+                                    <tr>
+                                    <td align="center" valign="top" width="600" style="width:600px;">
+                                    <![endif]-->
+                                    <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" class="templateContainer" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;max-width: 600px !important;">
+                                        <tr>
+                                            <td valign="top" class="headerContainer" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnCodeBlock" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class="mcnTextBlockOuter">
+        <tr>
+            <td valign="top" class="mcnTextBlockInner" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                <div class="mcnTextContent" style="word-break: break-word;color: #202020;font-family: Helvetica;font-size: 16px;line-height: 150%;text-align: center;">
+<img style="display: block;width: 175px;max-width: 450px;margin: 0 auto;border: 0;height: auto !important;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" alt="Walter" src="https://mcusercontent.com/0a624a163c28e478ac564b442/images/d5bfa969-16ae-46fd-bd31-9d6abcc68d2a.png"></div>
+            </td>
+        </tr>
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class="mcnTextBlockOuter">
+        <tr>
+            <td valign="top" class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+              	<!--[if mso]>
+				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+				<tr>
+				<![endif]-->
+			    
+				<!--[if mso]>
+				<td valign="top" width="600" style="width:600px;">
+				<![endif]-->
+                <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mcnTextContentContainer">
+                    <tbody><tr>
+                        
+                        <td valign="top" class="mcnTextContent" style="padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: #202020;font-family: Helvetica;font-size: 16px;line-height: 150%;text-align: center;">
+                        
+                            <link href="http://fonts.cdnfonts.com/css/new-york-extra-large" rel="stylesheet"><span style="color: #1A1515;font-family: new york extra large,sans-serif;font-size: 18px;text-align: center;">February 9, 2022</span>
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                                        </tr>
+                                    </table>
+                                    <!--[if (gte mso 9)|(IE)]>
+                                    </td>
+                                    </tr>
+                                    </table>
+                                    <![endif]-->
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center" valign="top" id="templateBody" style="background:#ffffff none no-repeat center/cover;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #ffffff;background-image: none;background-repeat: no-repeat;background-position: center;background-size: cover;border-top: 0;border-bottom: 0;padding-top: 9px;padding-bottom: 9px;">
+                                    <!--[if (gte mso 9)|(IE)]>
+                                    <table align="center" border="0" cellspacing="0" cellpadding="0" width="600" style="width:600px;">
+                                    <tr>
+                                    <td align="center" valign="top" width="600" style="width:600px;">
+                                    <![endif]-->
+                                    <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" class="templateContainer" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;max-width: 600px !important;">
+                                        <tr>
+                                            <td valign="top" class="bodyContainer" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnDividerBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;table-layout: fixed !important;">
+    <tbody class="mcnDividerBlockOuter">
+        <tr>
+            <td class="mcnDividerBlockInner" style="min-width: 100%;padding: 20px 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                <table class="mcnDividerContent" border="0" cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%;border-top: 2px solid #EDECEC;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                    <tbody><tr>
+                        <td style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                            <span></span>
+                        </td>
+                    </tr>
+                </tbody></table>
+<!--            
+                <td class="mcnDividerBlockInner" style="padding: 18px;">
+                <hr class="mcnDividerContent" style="border-bottom-color:none; border-left-color:none; border-right-color:none; border-bottom-width:0; border-left-width:0; border-right-width:0; margin-top:0; margin-right:0; margin-bottom:0; margin-left:0;" />
+-->
+            </td>
+        </tr>
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class="mcnTextBlockOuter">
+        <tr>
+            <td valign="top" class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+              	<!--[if mso]>
+				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+				<tr>
+				<![endif]-->
+			    
+				<!--[if mso]>
+				<td valign="top" width="600" style="width:600px;">
+				<![endif]-->
+                <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mcnTextContentContainer">
+                    <tbody><tr>
+                        
+                        <td valign="top" class="mcnTextContent" style="padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: #1a1515;font-family: Helvetica;font-size: 14px;line-height: 150%;text-align: left;">
+                        
+                            <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet"><font color="#1a1515" face="inter, sans-serif"><span style="font-size:18px">Welcome to Wednesday, Walter readers. Today is February 9, 2022. On this date in 1985, Madonna’s <em>Like a Virgin</em> album hit the top of the charts, where it would stay for several weeks. The controversy generated by the record (and it’s hit single of the same name) was substantial, and the public outcry only got louder when the steamy video was released. It remains a truly notable moment in pop culture history, but it also serves as another example of how things have changed so dramatically in recent decades. With ads for Viagra during football games, celebrities expressing their <a href="https://www.cosmopolitan.com/entertainment/celebs/g38450339/biggest-pop-culture-moments-2021/?slide=6" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #f25252;font-weight: normal;text-decoration: underline;">cannibal desires</a>, and the nation obsessing over a <a href="https://www.cnet.com/news/netflix-squid-game-is-even-bigger-than-you-thought-2-billion-hours-big/" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #f25252;font-weight: normal;text-decoration: underline;">TV show</a> that is centered around extreme and heinous violence, it’s fair to look back at the Madonna situation as, well, quaint. &nbsp;</span></font>
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnImageBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class="mcnImageBlockOuter">
+            <tr>
+                <td valign="top" style="padding: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" class="mcnImageBlockInner">
+                    <table align="left" width="100%" border="0" cellpadding="0" cellspacing="0" class="mcnImageContentContainer" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                        <tbody><tr>
+                            <td class="mcnImageContent" valign="top" style="padding-right: 9px;padding-left: 9px;padding-top: 0;padding-bottom: 0;text-align: center;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                
+                                    
+                                        <img align="center" alt="" src="https://mcusercontent.com/0a624a163c28e478ac564b442/images/e95f5201-8039-4739-a19e-be38240df00a.png" width="564" style="max-width: 601px;padding-bottom: 0;display: inline !important;vertical-align: bottom;border: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" class="mcnImage">
+                                    
+                                
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnCaptionBlock" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class="mcnCaptionBlockOuter">
+        <tr>
+            <td class="mcnCaptionBlockInner" valign="top" style="padding: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                
+
+<table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnCaptionBottomContent" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody><tr>
+        <td class="mcnCaptionBottomImageContent" align="center" valign="top" style="padding: 0 9px 9px 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+        
+            
+
+            <img alt="" src="https://mcusercontent.com/0a624a163c28e478ac564b442/images/c230abc1-7cb6-86a4-de5d-2be51f94f5ed.jpg" width="564" style="max-width: 1200px;border: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;vertical-align: bottom;" class="mcnImage">
+            
+        
+        </td>
+    </tr>
+    <tr>
+        <td class="mcnTextContent" valign="top" style="padding: 0 9px 0 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: #1a1515;font-family: Helvetica;font-size: 14px;line-height: 150%;text-align: left;" width="564">
+            <link href="http://fonts.cdnfonts.com/css/new-york-extra-large" rel="stylesheet"><span style="color:#b7b7b7; font-family:new york extra large,sans-serif; font-size:16px">Source:&nbsp;Andrew H. Walker | Getty Images</span>
+        </td>
+    </tr>
+</tbody></table>
+
+
+
+
+
+            </td>
+        </tr>
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class="mcnTextBlockOuter">
+        <tr>
+            <td valign="top" class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+              	<!--[if mso]>
+				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+				<tr>
+				<![endif]-->
+			    
+				<!--[if mso]>
+				<td valign="top" width="600" style="width:600px;">
+				<![endif]-->
+                <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mcnTextContentContainer">
+                    <tbody><tr>
+                        
+                        <td valign="top" class="mcnTextContent" style="padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: #1a1515;font-family: Helvetica;font-size: 14px;line-height: 150%;text-align: left;">
+                        
+                            <link href="http://fonts.cdnfonts.com/css/new-york-extra-large" rel="stylesheet">
+<h1 style="color: #1A1515;font-family: new york extra large,sans-serif;font-size: 32px;line-height: 1.4;display: block;margin: 0;padding: 0;font-style: normal;font-weight: bold;letter-spacing: normal;text-align: left;"><strong>Need to know</strong></h1>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class="mcnTextBlockOuter">
+        <tr>
+            <td valign="top" class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+              	<!--[if mso]>
+				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+				<tr>
+				<![endif]-->
+			    
+				<!--[if mso]>
+				<td valign="top" width="600" style="width:600px;">
+				<![endif]-->
+                <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mcnTextContentContainer">
+                    <tbody><tr>
+                        
+                        <td valign="top" class="mcnTextContent" style="padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: #1a1515;font-family: Helvetica;font-size: 14px;line-height: 150%;text-align: left;">
+                        
+                            <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+<ul>
+	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><font color="#1a1515" face="inter, sans-serif"><span style="font-size:18px"><strong>Awards szn:</strong> There were some surprises when this year’s Academy Awards nominations were <a href="https://www.hollywoodreporter.com/movies/movie-news/oscar-nominations-2022-nominees-list-1235088770/" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #f25252;font-weight: normal;text-decoration: underline;">announced</a> yesterday. (via Hollywood Reporter)</span></font><br>
+	<br>
+	&nbsp;</li>
+	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><font color="#1a1515" face="inter, sans-serif"><span style="font-size:18px"><strong>Forgive me Father:</strong> Retired Pope Benedict XVI did not acknowledge any wrongdoing, but did publicly <a href="https://apnews.com/article/europe-religion-germany-sexual-abuse-by-clergy-sexual-abuse-3461ba1b9adfcfb884027361263f1706" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #f25252;font-weight: normal;text-decoration: underline;">ask forgiveness</a> for any “grevious faults” in his handling of sexual abuse cases around the globe. (via AP)</span></font><br>
+	<br>
+	&nbsp;</li>
+	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><font color="#1a1515" face="inter, sans-serif"><span style="font-size:18px"><strong>Neighborly chaos:</strong> Canada, so often viewed as America’s kinder, gentler neighbor, is <a href="https://www.nytimes.com/live/2022/02/08/world/canada-trucker-protest" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #f25252;font-weight: normal;text-decoration: underline;">dealing with protests</a> over COVID restrictions that are affecting trade between the two nations. (via New York Times)&nbsp;</span></font><br>
+	<br>
+	&nbsp;</li>
+	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><font color="#1a1515" face="inter, sans-serif"><span style="font-size:18px"><strong>Tumultuous tech:</strong> The market <a href="https://www.reuters.com/business/futures-slip-earnings-disappoint-meta-platforms-weak-again-2022-02-08/" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #f25252;font-weight: normal;text-decoration: underline;">rallied</a> yesterday, with Tech regaining some of its footing as investors await Thursday’s consumer price index report. (via Reuters)</span></font></li>
+</ul>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnImageBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class="mcnImageBlockOuter">
+            <tr>
+                <td valign="top" style="padding: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" class="mcnImageBlockInner">
+                    <table align="left" width="100%" border="0" cellpadding="0" cellspacing="0" class="mcnImageContentContainer" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                        <tbody><tr>
+                            <td class="mcnImageContent" valign="top" style="padding-right: 9px;padding-left: 9px;padding-top: 0;padding-bottom: 0;text-align: center;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                
+                                    
+                                        <img align="center" alt="" src="https://mcusercontent.com/0a624a163c28e478ac564b442/images/e95f5201-8039-4739-a19e-be38240df00a.png" width="564" style="max-width: 601px;padding-bottom: 0;display: inline !important;vertical-align: bottom;border: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" class="mcnImage">
+                                    
+                                
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnCodeBlock" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class="mcnTextBlockOuter">
+        <tr>
+            <td valign="top" class="mcnTextBlockInner" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+<link href="http://fonts.cdnfonts.com/css/new-york-extra-large" rel="stylesheet">
+</td></tr><tr style="border-collapse:collapse"> 
+              <td class="es-p40r es-p40l" align="left" bgcolor="#ffffff" style="padding: 0;margin: 0;padding-left: 17px;padding-right: 17px;background-color: #FFFFFF;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"> 
+               <table cellpadding="0" cellspacing="0" width="100%" style="mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse;border-spacing: 0px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"> 
+                <tbody> 
+                 <tr style="border-collapse:collapse"> 
+                  <td align="center" valign="top" style="padding: 0;margin: 0;width: 600px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"> 
+                   <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse;border-spacing: 0px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"> 
+                    <tbody> 
+                     <tr style="border-collapse:collapse"> 
+                      <td align="left" class="es-p20t es-p10b es-p20r es-p20l" bgcolor="#1A1515" style="margin: 0;padding-bottom: 10px;padding-top: 5px;padding-left: 20px;padding-right: 20px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><p style="margin: 10px 0;-webkit-text-size-adjust: none;-ms-text-size-adjust: none;mso-line-height-rule: exactly;font-size: 14px;font-family: 'new york extra large', sans-serif;line-height: 21px;color: #FFFFFF;padding: 0;"><strong>A MESSAGE FROM HANK</strong></p></td> 
+                     </tr> 
+                     <tr style="border-collapse:collapse"> 
+                      <td align="left" class="es-p10b es-p20r es-p20l" bgcolor="#1A1515" style="padding: 0;margin: 0;padding-bottom: 10px;padding-left: 20px;padding-right: 20px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><p style="margin: 10px 0;-webkit-text-size-adjust: none;-ms-text-size-adjust: none;mso-line-height-rule: exactly;font-size: 26px;font-family: 'new york extra large', sans-serif;line-height: 26px;color: #FFF4E3;padding: 0;"><strong>Enjoy the amenities and services of a retirement facility in your own home </strong></p></td> 
+                     </tr> 
+                     <tr style="border-collapse:collapse"> 
+                      <td align="left" class="es-p20b es-p20r es-p20l" bgcolor="#1A1515" style="padding: 0;margin: 0;padding-bottom: 20px;padding-left: 20px;padding-right: 20px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><p style="margin: 10px 0;-webkit-text-size-adjust: none;-ms-text-size-adjust: none;mso-line-height-rule: exactly;font-size: 16px;font-family: inter,sans-serif;line-height: 24px;color: #FFFFFF;padding: 0;">Hank provides reliable, affordable help so that your loved one can continue to live in their home. Our personalized plans fit your needs and budget.</p></td> 
+                     </tr> 
+                     <tr style="border-collapse:collapse"> 
+                      <td align="left" class="es-p5t es-p20b es-p20r es-p20l es-m-txt-c" bgcolor="#1A1515" style="margin: 0;padding-top: 5px;padding-bottom: 15px;padding-left: 20px;padding-right: 20px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><span class="es-button-border" style="border-style: solid;border-color: #2CB543;background: #FFFFFF;border-width: 0px 0px 2px 0px;display: inline-block;border-radius: 0px;width: auto;border-bottom-width: 0px;"><a href="https://gethank.com/onboarding?utm_source=home_hero&utm_campaign=independent" class="es-button" target="_blank" style="mso-style-priority: 100 !important;text-decoration: none;-webkit-text-size-adjust: none;-ms-text-size-adjust: none;mso-line-height-rule: exactly;font-family: inter,sans-serif;font-size: 18px;color: #1A1515;border-style: solid;border-color: #FFFFFF;border-width: 10px 20px;display: inline-block;background: #FFFFFF;border-radius: 0px;font-weight: bold;font-style: normal;line-height: 22px;width: auto;text-align: center;">Get Started ➜</a></span></td> 
+                     </tr> 
+                    </tbody> 
+                   </table></td> 
+                 </tr> 
+                </tbody> 
+               </table></td> 
+             </tr> 
+            
+        
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnImageBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class="mcnImageBlockOuter">
+            <tr>
+                <td valign="top" style="padding: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" class="mcnImageBlockInner">
+                    <table align="left" width="100%" border="0" cellpadding="0" cellspacing="0" class="mcnImageContentContainer" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                        <tbody><tr>
+                            <td class="mcnImageContent" valign="top" style="padding-right: 9px;padding-left: 9px;padding-top: 0;padding-bottom: 0;text-align: center;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                
+                                    
+                                        <img align="center" alt="" src="https://mcusercontent.com/0a624a163c28e478ac564b442/images/e95f5201-8039-4739-a19e-be38240df00a.png" width="564" style="max-width: 601px;padding-bottom: 0;display: inline !important;vertical-align: bottom;border: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" class="mcnImage">
+                                    
+                                
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class="mcnTextBlockOuter">
+        <tr>
+            <td valign="top" class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+              	<!--[if mso]>
+				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+				<tr>
+				<![endif]-->
+			    
+				<!--[if mso]>
+				<td valign="top" width="600" style="width:600px;">
+				<![endif]-->
+                <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mcnTextContentContainer">
+                    <tbody><tr>
+                        
+                        <td valign="top" class="mcnTextContent" style="padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: #1a1515;font-family: Helvetica;font-size: 14px;line-height: 150%;text-align: left;">
+                        
+                            <link href="http://fonts.cdnfonts.com/css/new-york-extra-large" rel="stylesheet">
+<h1 style="color: #1A1515;font-size: 32px;font-family: new york extra large,sans-serif;display: block;margin: 0;padding: 0;font-style: normal;font-weight: bold;line-height: 125%;letter-spacing: normal;text-align: left;"><strong>Ask&nbsp;<span style="color:#F25252; font-family:new york extra large,sans-serif; font-size:32px">An&nbsp;</span>Expert</strong></h1>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnCaptionBlock" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class="mcnCaptionBlockOuter">
+        <tr>
+            <td class="mcnCaptionBlockInner" valign="top" style="padding: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                
+
+<table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnCaptionBottomContent" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody><tr>
+        <td class="mcnCaptionBottomImageContent" align="center" valign="top" style="padding: 0 9px 9px 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+        
+            
+
+            <img alt="" src="https://mcusercontent.com/0a624a163c28e478ac564b442/images/f7420865-bb38-d30f-7a6a-f4824d0d3ae4.jpg" width="564" style="max-width: 1200px;border: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;vertical-align: bottom;" class="mcnImage">
+            
+        
+        </td>
+    </tr>
+    <tr>
+        <td class="mcnTextContent" valign="top" style="padding: 0 9px 0 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: #1a1515;font-family: Helvetica;font-size: 14px;line-height: 150%;text-align: left;" width="564">
+            <link href="http://fonts.cdnfonts.com/css/new-york-extra-large" rel="stylesheet"><span style="color:#b7b7b7; font-family:new york extra large,sans-serif; font-size:16px">Source:&nbsp;Terrence Horan | Dow Jones</span>
+        </td>
+    </tr>
+</tbody></table>
+
+
+
+
+
+            </td>
+        </tr>
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class="mcnTextBlockOuter">
+        <tr>
+            <td valign="top" class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+              	<!--[if mso]>
+				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+				<tr>
+				<![endif]-->
+			    
+				<!--[if mso]>
+				<td valign="top" width="600" style="width:600px;">
+				<![endif]-->
+                <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mcnTextContentContainer">
+                    <tbody><tr>
+                        
+                        <td valign="top" class="mcnTextContent" style="padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: #1a1515;font-family: Helvetica;font-size: 14px;line-height: 150%;text-align: left;">
+                        
+                            <link href="http://fonts.cdnfonts.com/css/new-york-extra-large" rel="stylesheet">
+<h1 style="color: #1A1515;font-family: new york extra large,sans-serif;font-size: 32px;line-height: 1.4;display: block;margin: 0;padding: 0;font-style: normal;font-weight: bold;letter-spacing: normal;text-align: left;"><strong>Getting Connected to Crypto</strong></h1>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class="mcnTextBlockOuter">
+        <tr>
+            <td valign="top" class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+              	<!--[if mso]>
+				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+				<tr>
+				<![endif]-->
+			    
+				<!--[if mso]>
+				<td valign="top" width="600" style="width:600px;">
+				<![endif]-->
+                <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mcnTextContentContainer">
+                    <tbody><tr>
+                        
+                        <td valign="top" class="mcnTextContent" style="padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: #1a1515;font-family: Helvetica;font-size: 14px;line-height: 150%;text-align: left;">
+                        
+                            <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet"><font color="#1a1515" face="inter, sans-serif"><span style="font-size:18px">You may have caught the news yesterday of a couple arrested for stealing (and attempting to launder) billions of dollars in Bitcoin. It’s just the latest story that should give cryptocurrency proponents pause. So, we reached out to John Ryu to discuss crypto in a bit greater detail. John is an entrepreneur and venture investor with a keen interest in cryptocurrency.&nbsp;</span></font>
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class="mcnTextBlockOuter">
+        <tr>
+            <td valign="top" class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+              	<!--[if mso]>
+				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+				<tr>
+				<![endif]-->
+			    
+				<!--[if mso]>
+				<td valign="top" width="600" style="width:600px;">
+				<![endif]-->
+                <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mcnTextContentContainer">
+                    <tbody><tr>
+                        
+                        <td valign="top" class="mcnTextContent" style="padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: #1a1515;font-family: Helvetica;font-size: 14px;line-height: 150%;text-align: left;">
+                        
+                            <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+<style type="text/css">blockquote {
+	margin-left: 15px;
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-left-color: #F25252;
+    padding-bottom: 10px;
+    padding: 5px;
+}
+</style>
+<hr><font color="#1a1515" face="inter, sans-serif"><span style="font-size:18px"><strong>Can you tell our readers a little bit about crypto and its prognosis for 2022?</strong></span></font>
+
+<blockquote style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;margin-left: 15px;border-left-style: solid;border-left-width: 1px;border-left-color: #F25252;padding-bottom: 10px;padding: 5px;"><font color="#1a1515" face="inter, sans-serif"><span style="font-size:18px"><em>Crypto (i.e. cryptocurrency) is a digital currency secured by cryptography, which makes it nearly impossible to counterfeit or double-spend. As far as its prognosis for the year ahead, a great deal depends on what public markets will do in 2022. &nbsp;I’d argue that, at times, crypto is more correlated to public markets than the general tech media narrative lets on. There is an understanding among crypto investors that digital assets are highly volatile, and that investors need to be able to stomach and “hodl” (i.e. hold on for dear life) through big drawdowns. Looking beyond 2022, we have crossed the threshold where enough smart technologists have committed their careers to learning and building crypto and web3 products. Millions of people have interacted with digital wallets and joined web3 communities on platforms like <a href="https://discord.com/safety/360044149331-What-is-Discord" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #f25252;font-weight: normal;text-decoration: underline;">Discord</a>. That’s another way of saying that crypto has enough momentum that it’s unlikely to go away any time soon, and it has the potential to be very disruptive in the long run. &nbsp;</em></span></font></blockquote>
+<br>
+<font color="#1a1515" face="inter, sans-serif"><span style="font-size:18px"><strong>What are the hot trends in crypto right now, and do you think of them as fact or fiction?</strong></span></font>
+
+<blockquote style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;margin-left: 15px;border-left-style: solid;border-left-width: 1px;border-left-color: #F25252;padding-bottom: 10px;padding: 5px;"><font color="#1a1515" face="inter, sans-serif"><span style="font-size:18px">One interesting trend is the development of stablecoins. A stablecoin is a cryptocurrency whose exchange rate is stable relative to the US dollar. For example, USDC is a leading stablecoin, and 1 USDC = $1 US Dollar. Stability is a desired characteristic in crypto because frankly, the highly volatile nature of cryptocurrencies such as Bitcoin makes it a less appealing form of money. Stablecoins would be a huge improvement. The stablecoin market is quite competitive and incumbents such as <a href="https://www.fool.com/the-ascent/cryptocurrency/articles/paypal-stablecoin-could-be-coming-soon-should-you-buy/" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #f25252;font-weight: normal;text-decoration: underline;">Paypal</a> are developing their own. Even nations are throwing their hat in the ring: China <a href="https://blockworks.co/china-debuts-digital-yuan-at-winter-olympics-amid-warnings-from-us-senator/" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #f25252;font-weight: normal;text-decoration: underline;">debuted</a> the Digital Yuan at the Winter Olympics.&nbsp;</span></font></blockquote>
+<br>
+<font color="#1a1515" face="inter, sans-serif"><span style="font-size:18px"><strong>How can individual investors participate in crypto investing?&nbsp;</strong></span></font>
+
+<blockquote style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;margin-left: 15px;border-left-style: solid;border-left-width: 1px;border-left-color: #F25252;padding-bottom: 10px;padding: 5px;"><font color="#1a1515" face="inter, sans-serif"><span style="font-size:18px"><em></em><em>Individual investors can put money towards crypto directly on services like Coinbase, but there are also other products you can research and take advantage of by talking to a certified financial advisor.</em></span></font></blockquote>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnImageBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class="mcnImageBlockOuter">
+            <tr>
+                <td valign="top" style="padding: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" class="mcnImageBlockInner">
+                    <table align="left" width="100%" border="0" cellpadding="0" cellspacing="0" class="mcnImageContentContainer" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                        <tbody><tr>
+                            <td class="mcnImageContent" valign="top" style="padding-right: 9px;padding-left: 9px;padding-top: 0;padding-bottom: 0;text-align: center;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                
+                                    
+                                        <img align="center" alt="" src="https://mcusercontent.com/0a624a163c28e478ac564b442/images/e95f5201-8039-4739-a19e-be38240df00a.png" width="564" style="max-width: 601px;padding-bottom: 0;display: inline !important;vertical-align: bottom;border: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" class="mcnImage">
+                                    
+                                
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class="mcnTextBlockOuter">
+        <tr>
+            <td valign="top" class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+              	<!--[if mso]>
+				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+				<tr>
+				<![endif]-->
+			    
+				<!--[if mso]>
+				<td valign="top" width="600" style="width:600px;">
+				<![endif]-->
+                <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mcnTextContentContainer">
+                    <tbody><tr>
+                        
+                        <td valign="top" class="mcnTextContent" style="padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: #1a1515;font-family: Helvetica;font-size: 14px;line-height: 150%;text-align: left;">
+                        
+                            <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+<h2 style="color: #F25252;font-family: inter,sans-serif;font-size: 18px;display: block;margin: 0;padding: 0;font-style: normal;font-weight: bold;line-height: 125%;letter-spacing: normal;text-align: left;"><strong>PHOTO OF THE DAY</strong></h2>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnCaptionBlock" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class="mcnCaptionBlockOuter">
+        <tr>
+            <td class="mcnCaptionBlockInner" valign="top" style="padding: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                
+
+<table align="left" border="0" cellpadding="0" cellspacing="0" class="mcnCaptionBottomContent" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody><tr>
+        <td class="mcnCaptionBottomImageContent" align="center" valign="top" style="padding: 0 9px 9px 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+        
+            
+
+            <img alt="" src="https://mcusercontent.com/0a624a163c28e478ac564b442/images/b4f341de-622a-e4cd-4ac3-49751d9043bb.png" width="564" style="max-width: 1200px;border: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;vertical-align: bottom;" class="mcnImage">
+            
+        
+        </td>
+    </tr>
+    <tr>
+        <td class="mcnTextContent" valign="top" style="padding: 0 9px 0 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: #1a1515;font-family: Helvetica;font-size: 14px;line-height: 150%;text-align: left;" width="564">
+            <link href="http://fonts.cdnfonts.com/css/new-york-extra-large" rel="stylesheet"><span style="color:#b7b7b7; font-family:new york extra large,sans-serif; font-size:16px">Source:&nbsp;AP Photo | Linda Schaefer</span>
+        </td>
+    </tr>
+</tbody></table>
+
+
+
+
+
+            </td>
+        </tr>
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class="mcnTextBlockOuter">
+        <tr>
+            <td valign="top" class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+              	<!--[if mso]>
+				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+				<tr>
+				<![endif]-->
+			    
+				<!--[if mso]>
+				<td valign="top" width="600" style="width:600px;">
+				<![endif]-->
+                <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mcnTextContentContainer">
+                    <tbody><tr>
+                        
+                        <td valign="top" class="mcnTextContent" style="padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: #1a1515;font-family: Helvetica;font-size: 14px;line-height: 150%;text-align: left;">
+                        
+                            <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet"><em><font color="#1a1515" face="inter, sans-serif"><span style="font-size:18px">Oprah Winfrey speaks during a broadcast from Cumming, Georgia on this date in 1987. The episode, which had an audience of about 100 white citizens of Forsyth County, explored how segregation was still practiced in the area.&nbsp;</span></font></em>
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnImageBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class="mcnImageBlockOuter">
+            <tr>
+                <td valign="top" style="padding: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" class="mcnImageBlockInner">
+                    <table align="left" width="100%" border="0" cellpadding="0" cellspacing="0" class="mcnImageContentContainer" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                        <tbody><tr>
+                            <td class="mcnImageContent" valign="top" style="padding-right: 9px;padding-left: 9px;padding-top: 0;padding-bottom: 0;text-align: center;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                
+                                    
+                                        <img align="center" alt="" src="https://mcusercontent.com/0a624a163c28e478ac564b442/images/e95f5201-8039-4739-a19e-be38240df00a.png" width="564" style="max-width: 601px;padding-bottom: 0;display: inline !important;vertical-align: bottom;border: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" class="mcnImage">
+                                    
+                                
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnCodeBlock" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class="mcnTextBlockOuter">
+        <tr>
+            <td valign="top" class="mcnTextBlockInner" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+<link href="http://fonts.cdnfonts.com/css/new-york-extra-large" rel="stylesheet">
+</td></tr><tr style="border-collapse:collapse"> 
+              <td class="es-p20t es-p40r es-p40l" align="left" bgcolor="#ffffff" style="padding: 0;margin: 0;padding-top: 20px;padding-left: 20px;padding-right: 20px;background-color: #FFFFFF;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"> 
+               <table cellpadding="0" cellspacing="0" width="100%" style="mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse;border-spacing: 0px;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"> 
+                <tbody> 
+                 <tr style="border-collapse:collapse"> 
+                  <td align="center" valign="top" style="padding: 0;margin: 0;width: 510px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"> 
+                   <table cellpadding="0" cellspacing="0" width="100%" bgcolor="#ecf7fa" style="mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse;border-spacing: 0px;background-color: #ECF7FA;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" role="presentation"> 
+                    <tbody> 
+                     <tr style="border-collapse:collapse"> 
+                      <td align="left" class="es-p30t es-p10b es-p20l" bgcolor="#ECF7FA" style="padding: 0;margin: 0;padding-bottom: 10px;padding-left: 20px;padding-top: 5px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><p style="margin: 10px 0;-webkit-text-size-adjust: none;-ms-text-size-adjust: none;mso-line-height-rule: exactly;font-size: 16px;font-family: 'new york extra large', sans-serif;line-height: 24px;color: #B2B7B9;padding: 0;">Sponsored Content</p></td> 
+                     </tr> 
+                     <tr style="border-collapse:collapse"> 
+                      <td align="left" class="es-p20b es-p20l es-m-p20r" style="padding: 0;margin: 0;padding-bottom: 20px;padding-left: 20px;font-size: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><a target="_blank" href="https://gifthealth.com" style="-webkit-text-size-adjust: none;-ms-text-size-adjust: none;mso-line-height-rule: exactly;font-family: arial, 'helvetica neue', helvetica, sans-serif;font-size: 14px;text-decoration: underline;color: #F25252;"><img class="adapt-img" src="https://mcusercontent.com/0a624a163c28e478ac564b442/images/a66956a3-47ff-47eb-a6ea-e53477469f06.png" alt="" style="display: block;border: 0;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;height: auto;" width="143"></a></td> 
+                     </tr> 
+                     <tr style="border-collapse:collapse"> 
+                      <td align="left" class="es-p15b es-p20r es-p20l" bgcolor="#ECF7FA" style="padding: 0;margin: 0;padding-bottom: 15px;padding-left: 20px;padding-right: 20px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><p style="margin: 10px 0;-webkit-text-size-adjust: none;-ms-text-size-adjust: none;mso-line-height-rule: exactly;font-size: 18px;font-family: inter,sans-serif, sans-serif;line-height: 27px;color: #1A1515;padding: 0;">Building the front door to <strong>cheaper healthcare</strong>, giftHEALTH strives to provide cheaper healthcare for ones in need. Follow our newsletter for daily healthcare news and tips.</p></td> 
+                     </tr> 
+                     <tr style="border-collapse:collapse"> 
+                      <td align="left" class="es-p30b es-p20r es-p20l es-m-txt-c" bgcolor="#ECF7FA" style="padding: 0;margin: 0;padding-left: 20px;padding-right: 20px;padding-bottom: 15px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><span class="es-button-border" style="border-style: solid;border-color: #2CB543;background: #BE2BBB;border-width: 0px 0px 2px 0px;display: inline-block;border-radius: 0px;width: auto;border-bottom-width: 0px;"><a href="https://www.gifthealth.media" class="es-button" target="_blank" style="mso-style-priority: 100 !important;text-decoration: none;-webkit-text-size-adjust: none;-ms-text-size-adjust: none;mso-line-height-rule: exactly;font-family: inter,sans-serif;font-size: 18px;color: #FFFFFF;border-style: solid;border-color: #BE2BBB;border-width: 10px 20px 10px 20px;display: inline-block;background: #BE2BBB;border-radius: 0px;font-weight: normal;font-style: normal;line-height: 22px;width: auto;text-align: center;">Subscribe to newsletter ➜</a></span></td> 
+                     </tr> 
+                    </tbody> 
+                   </table></td> 
+                 </tr> 
+                </tbody> 
+               </table></td> 
+             </tr> 
+            
+        
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnImageBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class="mcnImageBlockOuter">
+            <tr>
+                <td valign="top" style="padding: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" class="mcnImageBlockInner">
+                    <table align="left" width="100%" border="0" cellpadding="0" cellspacing="0" class="mcnImageContentContainer" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                        <tbody><tr>
+                            <td class="mcnImageContent" valign="top" style="padding-right: 9px;padding-left: 9px;padding-top: 0;padding-bottom: 0;text-align: center;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                
+                                    
+                                        <img align="center" alt="" src="https://mcusercontent.com/0a624a163c28e478ac564b442/images/e95f5201-8039-4739-a19e-be38240df00a.png" width="564" style="max-width: 601px;padding-bottom: 0;display: inline !important;vertical-align: bottom;border: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" class="mcnImage">
+                                    
+                                
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class="mcnTextBlockOuter">
+        <tr>
+            <td valign="top" class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+              	<!--[if mso]>
+				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+				<tr>
+				<![endif]-->
+			    
+				<!--[if mso]>
+				<td valign="top" width="600" style="width:600px;">
+				<![endif]-->
+                <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mcnTextContentContainer">
+                    <tbody><tr>
+                        
+                        <td valign="top" class="mcnTextContent" style="padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: #1a1515;font-family: Helvetica;font-size: 14px;line-height: 150%;text-align: left;">
+                        
+                            <link href="http://fonts.cdnfonts.com/css/new-york-extra-large" rel="stylesheet">
+<h1 style="color: #1A1515;font-size: 32px;font-family: new york extra large,sans-serif;display: block;margin: 0;padding: 0;font-style: normal;font-weight: bold;line-height: 125%;letter-spacing: normal;text-align: left;"><strong>Odds<span style="color:#F25252; font-family:new york extra large,sans-serif; font-size:32px">&amp;</span>Ends</strong></h1>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class="mcnTextBlockOuter">
+        <tr>
+            <td valign="top" class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+              	<!--[if mso]>
+				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+				<tr>
+				<![endif]-->
+			    
+				<!--[if mso]>
+				<td valign="top" width="600" style="width:600px;">
+				<![endif]-->
+                <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mcnTextContentContainer">
+                    <tbody><tr>
+                        
+                        <td valign="top" class="mcnTextContent" style="padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: #1a1515;font-family: Helvetica;font-size: 14px;line-height: 150%;text-align: left;">
+                        
+                            <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+<p style="margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #1a1515;font-family: Helvetica;font-size: 14px;line-height: 150%;text-align: left;"><span style="color:#1A1515; font-family:inter,sans-serif; font-size:18px; line-height:1.4">💰&nbsp;<strong>Bleak outlook on real estate </strong>With America’s inability to match housing supply with unprecedented demand, homebuyers have never been <a href="https://fortune.com/2022/02/08/should-i-buy-house-sellers-market-housing-real-estate-fannie-mae/" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #f25252;font-weight: normal;text-decoration: underline;">more pessimistic</a> about the market. (via Fortune)</span></p>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class="mcnTextBlockOuter">
+        <tr>
+            <td valign="top" class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+              	<!--[if mso]>
+				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+				<tr>
+				<![endif]-->
+			    
+				<!--[if mso]>
+				<td valign="top" width="600" style="width:600px;">
+				<![endif]-->
+                <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mcnTextContentContainer">
+                    <tbody><tr>
+                        
+                        <td valign="top" class="mcnTextContent" style="padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: #1a1515;font-family: Helvetica;font-size: 14px;line-height: 150%;text-align: left;">
+                        
+                            <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+<p style="margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #1a1515;font-family: Helvetica;font-size: 14px;line-height: 150%;text-align: left;"><span style="color:#1A1515; font-family:inter,sans-serif; font-size:18px; line-height:1.4">🩺&nbsp;<strong>Choices in care: </strong>Whether we’re thinking about our parents or ourselves, understanding the difference between <a href="https://health.usnews.com/senior-care/caregiving/types-of-long-term-care-facilities" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #f25252;font-weight: normal;text-decoration: underline;">long-term care options</a> is integral to ensuring quality of life. (via U.S. News &amp; World Report)</span></p>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class="mcnTextBlockOuter">
+        <tr>
+            <td valign="top" class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+              	<!--[if mso]>
+				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+				<tr>
+				<![endif]-->
+			    
+				<!--[if mso]>
+				<td valign="top" width="600" style="width:600px;">
+				<![endif]-->
+                <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mcnTextContentContainer">
+                    <tbody><tr>
+                        
+                        <td valign="top" class="mcnTextContent" style="padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: #1a1515;font-family: Helvetica;font-size: 14px;line-height: 150%;text-align: left;">
+                        
+                            <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+<p style="margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #1a1515;font-family: Helvetica;font-size: 14px;line-height: 150%;text-align: left;"><span style="color:#1A1515; font-family:inter,sans-serif; font-size:18px; line-height:1.4">👴&nbsp;<strong>Romantic runaway:&nbsp;</strong>When we were younger, Valentine’s Day meant a nice dinner out. Now that we’re older, an epic vacation to one of the world’s <a href="https://www.nationalgeographic.com/travel/article/world-most-romantic-destinations" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #f25252;font-weight: normal;text-decoration: underline;">most romantic destinations</a> may be preferable. (via National Geographic)</span></p>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class="mcnTextBlockOuter">
+        <tr>
+            <td valign="top" class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+              	<!--[if mso]>
+				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+				<tr>
+				<![endif]-->
+			    
+				<!--[if mso]>
+				<td valign="top" width="600" style="width:600px;">
+				<![endif]-->
+                <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mcnTextContentContainer">
+                    <tbody><tr>
+                        
+                        <td valign="top" class="mcnTextContent" style="padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: #1a1515;font-family: Helvetica;font-size: 14px;line-height: 150%;text-align: left;">
+                        
+                            <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+<p style="margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #1a1515;font-family: Helvetica;font-size: 14px;line-height: 150%;text-align: left;"><span style="color:#1A1515; font-family:inter,sans-serif; font-size:18px; line-height:1.4">🌵&nbsp;<strong>Luxury living: </strong>NBA star Devin Booker’s Arizona home is <a href="https://www.architecturaldigest.com/story/tour-nba-star-devin-bookers-stylish-arizona-abode" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #f25252;font-weight: normal;text-decoration: underline;">absolutely stunning</a>. (via Architectural Digest)</span></p>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class="mcnTextBlockOuter">
+        <tr>
+            <td valign="top" class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+              	<!--[if mso]>
+				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+				<tr>
+				<![endif]-->
+			    
+				<!--[if mso]>
+				<td valign="top" width="600" style="width:600px;">
+				<![endif]-->
+                <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mcnTextContentContainer">
+                    <tbody><tr>
+                        
+                        <td valign="top" class="mcnTextContent" style="padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: #1a1515;font-family: Helvetica;font-size: 14px;line-height: 150%;text-align: left;">
+                        
+                            <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+<p style="margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #1a1515;font-family: Helvetica;font-size: 14px;line-height: 150%;text-align: left;"><span style="color:#1A1515; font-family:inter,sans-serif; font-size:18px; line-height:1.4">⛷️&nbsp;<strong>The physics of performance: </strong>Ever wonder how a human being can reach 90mph during the bobsled, luge, or skeleton events at the Olympics? Wonder <a href="https://www.scientificamerican.com/article/the-high-speed-physics-of-olympic-sledding-explained/" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #f25252;font-weight: normal;text-decoration: underline;">no more</a>. (via Scientific American)</span></p>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class="mcnTextBlockOuter">
+        <tr>
+            <td valign="top" class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+              	<!--[if mso]>
+				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+				<tr>
+				<![endif]-->
+			    
+				<!--[if mso]>
+				<td valign="top" width="600" style="width:600px;">
+				<![endif]-->
+                <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mcnTextContentContainer">
+                    <tbody><tr>
+                        
+                        <td valign="top" class="mcnTextContent" style="padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: #1a1515;font-family: Helvetica;font-size: 14px;line-height: 150%;text-align: left;">
+                        
+                            <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+<p style="margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #1a1515;font-family: Helvetica;font-size: 14px;line-height: 150%;text-align: left;"><span style="color:#1A1515; font-family:inter,sans-serif; font-size:18px; line-height:1.4">🏀&nbsp;<strong>Trading places:&nbsp;</strong>As we approach the trading deadline in the NBA, some very prominent players are <a href="https://www.cbssports.com/nba/news/cj-mccollum-trade-grades-pelicans-pair-star-guard-with-zion-williamson-blazers-continue-teardown/" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #f25252;font-weight: normal;text-decoration: underline;">headed</a> to new places. (via CBS Sports)</span></p>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class="mcnTextBlockOuter">
+        <tr>
+            <td valign="top" class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+              	<!--[if mso]>
+				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+				<tr>
+				<![endif]-->
+			    
+				<!--[if mso]>
+				<td valign="top" width="600" style="width:600px;">
+				<![endif]-->
+                <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mcnTextContentContainer">
+                    <tbody><tr>
+                        
+                        <td valign="top" class="mcnTextContent" style="padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: #1a1515;font-family: Helvetica;font-size: 14px;line-height: 150%;text-align: left;">
+                        
+                            <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+<p style="margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #1a1515;font-family: Helvetica;font-size: 14px;line-height: 150%;text-align: left;"><span style="color:#1A1515; font-family:inter,sans-serif; font-size:18px; line-height:1.4">🐒&nbsp;<strong>Best story ever:</strong>&nbsp;Our headline couldn’t be avoided. There is a British zoo that hired a <a href="https://www.upi.com/Odd_News/2022/02/08/Trentham-Monkey-Forest-Stafford-England-Marvin-Gaye/1871644340605/" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #f25252;font-weight: normal;text-decoration: underline;">Marvin Gaye impersonator</a> to help its endangered monkeys “get it on.” (via UPI)</span></p>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnImageBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class="mcnImageBlockOuter">
+            <tr>
+                <td valign="top" style="padding: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" class="mcnImageBlockInner">
+                    <table align="left" width="100%" border="0" cellpadding="0" cellspacing="0" class="mcnImageContentContainer" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                        <tbody><tr>
+                            <td class="mcnImageContent" valign="top" style="padding-right: 9px;padding-left: 9px;padding-top: 0;padding-bottom: 0;text-align: center;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                
+                                    
+                                        <img align="center" alt="" src="https://mcusercontent.com/0a624a163c28e478ac564b442/images/e95f5201-8039-4739-a19e-be38240df00a.png" width="564" style="max-width: 601px;padding-bottom: 0;display: inline !important;vertical-align: bottom;border: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" class="mcnImage">
+                                    
+                                
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class="mcnTextBlockOuter">
+        <tr>
+            <td valign="top" class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+              	<!--[if mso]>
+				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+				<tr>
+				<![endif]-->
+			    
+				<!--[if mso]>
+				<td valign="top" width="600" style="width:600px;">
+				<![endif]-->
+                <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mcnTextContentContainer">
+                    <tbody><tr>
+                        
+                        <td valign="top" class="mcnTextContent" style="padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: #1a1515;font-family: Helvetica;font-size: 14px;line-height: 150%;text-align: left;">
+                        
+                            <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+<h2 style="color: #F25252;font-family: inter,sans-serif;font-size: 18px;display: block;margin: 0;padding: 0;font-style: normal;font-weight: bold;line-height: 125%;letter-spacing: normal;text-align: left;"><strong>GAMES</strong></h2>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class="mcnTextBlockOuter">
+        <tr>
+            <td valign="top" class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+              	<!--[if mso]>
+				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+				<tr>
+				<![endif]-->
+			    
+				<!--[if mso]>
+				<td valign="top" width="600" style="width:600px;">
+				<![endif]-->
+                <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mcnTextContentContainer">
+                    <tbody><tr>
+                        
+                        <td valign="top" class="mcnTextContent" style="padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: #1a1515;font-family: Helvetica;font-size: 14px;line-height: 150%;text-align: left;">
+                        
+                            <link href="http://fonts.cdnfonts.com/css/new-york-extra-large" rel="stylesheet">
+<h1 style="color: #1A1515;font-family: new york extra large,sans-serif;font-size: 32px;display: block;margin: 0;padding: 0;font-style: normal;font-weight: bold;line-height: 125%;letter-spacing: normal;text-align: left;"><strong>Brainworks</strong></h1>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class="mcnTextBlockOuter">
+        <tr>
+            <td valign="top" class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+              	<!--[if mso]>
+				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+				<tr>
+				<![endif]-->
+			    
+				<!--[if mso]>
+				<td valign="top" width="600" style="width:600px;">
+				<![endif]-->
+                <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mcnTextContentContainer">
+                    <tbody><tr>
+                        
+                        <td valign="top" class="mcnTextContent" style="padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: #1a1515;font-family: Helvetica;font-size: 14px;line-height: 150%;text-align: left;">
+                        
+                            <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet"><span style="color:#1A1515; font-family:inter,sans-serif; font-size:18px; line-height:1.4"><strong>Trivia:&nbsp;</strong>The Beatles made their first appearance on “The Ed Sullivan Show” on this date in 1964. About how many Americans were watching? (Hint: 100 million viewers tuned into last year’s Super Bowl).&nbsp;</span>
+<ul>
+	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><span style="color:#1A1515; font-family:inter,sans-serif; font-size:18px; line-height:1.4">A: 24 million</span></li>
+	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><span style="color:#1A1515; font-family:inter,sans-serif; font-size:18px; line-height:1.4">B: 38 million</span></li>
+	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><span style="color:#1A1515; font-family:inter,sans-serif; font-size:18px; line-height:1.4">C: 55 million</span></li>
+	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><span style="color:#1A1515; font-family:inter,sans-serif; font-size:18px; line-height:1.4">D: 73 million</span></li>
+	<li style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><span style="color:#1A1515; font-family:inter,sans-serif; font-size:18px; line-height:1.4">E: 84 million</span></li>
+</ul>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnImageBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class="mcnImageBlockOuter">
+            <tr>
+                <td valign="top" style="padding: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" class="mcnImageBlockInner">
+                    <table align="left" width="100%" border="0" cellpadding="0" cellspacing="0" class="mcnImageContentContainer" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                        <tbody><tr>
+                            <td class="mcnImageContent" valign="top" style="padding-right: 9px;padding-left: 9px;padding-top: 0;padding-bottom: 0;text-align: center;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                
+                                    
+                                        <img align="center" alt="" src="https://mcusercontent.com/0a624a163c28e478ac564b442/images/e95f5201-8039-4739-a19e-be38240df00a.png" width="564" style="max-width: 601px;padding-bottom: 0;display: inline !important;vertical-align: bottom;border: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" class="mcnImage">
+                                    
+                                
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class="mcnTextBlockOuter">
+        <tr>
+            <td valign="top" class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+              	<!--[if mso]>
+				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+				<tr>
+				<![endif]-->
+			    
+				<!--[if mso]>
+				<td valign="top" width="600" style="width:600px;">
+				<![endif]-->
+                <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mcnTextContentContainer">
+                    <tbody><tr>
+                        
+                        <td valign="top" class="mcnTextContent" style="padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: #1a1515;font-family: Helvetica;font-size: 14px;line-height: 150%;text-align: left;">
+                        
+                            <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+<h2 style="color: #F25252;font-family: inter,sans-serif;font-size: 18px;display: block;margin: 0;padding: 0;font-style: normal;font-weight: bold;line-height: 125%;letter-spacing: normal;text-align: left;"><strong>SHARE WALTER</strong></h2>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class="mcnTextBlockOuter">
+        <tr>
+            <td valign="top" class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+              	<!--[if mso]>
+				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+				<tr>
+				<![endif]-->
+			    
+				<!--[if mso]>
+				<td valign="top" width="600" style="width:600px;">
+				<![endif]-->
+                <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mcnTextContentContainer">
+                    <tbody><tr>
+                        
+                        <td valign="top" class="mcnTextContent" style="padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: #1a1515;font-family: Helvetica;font-size: 14px;line-height: 150%;text-align: left;">
+                        
+                            <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet"><span style="color:#1A1515; font-family:inter,sans-serif; font-size:18px; line-height:1.4">When you share Walter with your network, you can earn free swag like our classic Walter tote bag.</span>
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnImageBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class="mcnImageBlockOuter">
+            <tr>
+                <td valign="top" style="padding: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" class="mcnImageBlockInner">
+                    <table align="left" width="100%" border="0" cellpadding="0" cellspacing="0" class="mcnImageContentContainer" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                        <tbody><tr>
+                            <td class="mcnImageContent" valign="top" style="padding-right: 9px;padding-left: 9px;padding-top: 0;padding-bottom: 0;text-align: center;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                
+                                    
+                                        <img align="center" alt="" src="https://mcusercontent.com/0a624a163c28e478ac564b442/images/12c61ebe-2ce6-4f05-96e5-08092f7b5d8c.png" width="304.56" style="max-width: 1012px;padding-bottom: 0;display: inline !important;vertical-align: bottom;border: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" class="mcnImage">
+                                    
+                                
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnImageBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class="mcnImageBlockOuter">
+            <tr>
+                <td valign="top" style="padding: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" class="mcnImageBlockInner">
+                    <table align="left" width="100%" border="0" cellpadding="0" cellspacing="0" class="mcnImageContentContainer" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                        <tbody><tr>
+                            <td class="mcnImageContent" valign="top" style="padding-right: 9px;padding-left: 9px;padding-top: 0;padding-bottom: 0;text-align: center;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                
+                                    
+                                        <img align="center" alt="" src="https://mcusercontent.com/0a624a163c28e478ac564b442/images/e95f5201-8039-4739-a19e-be38240df00a.png" width="564" style="max-width: 601px;padding-bottom: 0;display: inline !important;vertical-align: bottom;border: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" class="mcnImage">
+                                    
+                                
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class="mcnTextBlockOuter">
+        <tr>
+            <td valign="top" class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+              	<!--[if mso]>
+				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+				<tr>
+				<![endif]-->
+			    
+				<!--[if mso]>
+				<td valign="top" width="600" style="width:600px;">
+				<![endif]-->
+                <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mcnTextContentContainer">
+                    <tbody><tr>
+                        
+                        <td valign="top" class="mcnTextContent" style="padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: #1a1515;font-family: Helvetica;font-size: 14px;line-height: 150%;text-align: left;">
+                        
+                            <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+<h2 style="color: #F25252;font-family: inter,sans-serif;font-size: 18px;display: block;margin: 0;padding: 0;font-style: normal;font-weight: bold;line-height: 125%;letter-spacing: normal;text-align: left;"><strong>AND THAT'S THE WAY IT IS...</strong></h2>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class="mcnTextBlockOuter">
+        <tr>
+            <td valign="top" class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+              	<!--[if mso]>
+				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+				<tr>
+				<![endif]-->
+			    
+				<!--[if mso]>
+				<td valign="top" width="600" style="width:600px;">
+				<![endif]-->
+                <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mcnTextContentContainer">
+                    <tbody><tr>
+                        
+                        <td valign="top" class="mcnTextContent" style="padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: #1a1515;font-family: Helvetica;font-size: 14px;line-height: 150%;text-align: left;">
+                        
+                            <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet"><font color="#1a1515" face="inter, sans-serif"><span style="font-size:18px">You’ve made it! You have finished your five-minute, Wednesday morning, brilliantly written news update. Want more? Check your inbox come Friday morning. Walter will be waiting for you.</span></font><br>
+<br>
+<link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet"><span style="color:#1A1515; font-family:inter,sans-serif; font-size:18px; line-height:1.4"><strong>Answer to Trivia</strong>:&nbsp;D. When the Fab Four opened with “All My Loving,” music would never be the same.&nbsp;</span>
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnImageBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class="mcnImageBlockOuter">
+            <tr>
+                <td valign="top" style="padding: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" class="mcnImageBlockInner">
+                    <table align="left" width="100%" border="0" cellpadding="0" cellspacing="0" class="mcnImageContentContainer" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                        <tbody><tr>
+                            <td class="mcnImageContent" valign="top" style="padding-right: 9px;padding-left: 9px;padding-top: 0;padding-bottom: 0;text-align: center;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                
+                                    
+                                        <img align="center" alt="" src="https://mcusercontent.com/0a624a163c28e478ac564b442/images/e95f5201-8039-4739-a19e-be38240df00a.png" width="564" style="max-width: 601px;padding-bottom: 0;display: inline !important;vertical-align: bottom;border: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" class="mcnImage">
+                                    
+                                
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class="mcnTextBlockOuter">
+        <tr>
+            <td valign="top" class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+              	<!--[if mso]>
+				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+				<tr>
+				<![endif]-->
+			    
+				<!--[if mso]>
+				<td valign="top" width="600" style="width:600px;">
+				<![endif]-->
+                <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mcnTextContentContainer">
+                    <tbody><tr>
+                        
+                        <td valign="top" class="mcnTextContent" style="padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: #1a1515;font-family: Helvetica;font-size: 14px;line-height: 150%;text-align: left;">
+                        
+                            <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+<center><strong><font color="#1a1515" face="inter, sans-serif"><span style="font-size:18px">Did a friend forward this to you?</span></font></strong></center>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class="mcnTextBlockOuter">
+        <tr>
+            <td valign="top" class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+              	<!--[if mso]>
+				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+				<tr>
+				<![endif]-->
+			    
+				<!--[if mso]>
+				<td valign="top" width="600" style="width:600px;">
+				<![endif]-->
+                <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mcnTextContentContainer">
+                    <tbody><tr>
+                        
+                        <td valign="top" class="mcnTextContent" style="padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: #1a1515;font-family: Helvetica;font-size: 14px;line-height: 150%;text-align: left;">
+                        
+                            <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+<center><font color="grey" face="inter, sans-serif"><span style="font-size:12px">Don't miss out on all the news of the week.</span></font></center>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnCodeBlock" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class="mcnTextBlockOuter">
+        <tr>
+            <td valign="top" class="mcnTextBlockInner" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                             </td><td align="center" class="es-p20r es-p20l es-m-txt-c" style="padding: 0;margin: 0;padding-left: 20px;padding-right: 20px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><span class="es-button-border" style="border-style: solid;border-color: #2CB543;background: #1195BF;border-width: 0px 0px 2px 0px;display: inline-block;border-radius: 12px;width: auto;border-bottom-width: 0px;"><a href="https://thisiswalter.com/?utm_source=newsletter&utm_medium=website&utm_campaign=landing_page" class="es-button" target="_blank" style="mso-style-priority: 100 !important;text-decoration: none;-webkit-text-size-adjust: none;-ms-text-size-adjust: none;mso-line-height-rule: exactly;font-family: inter,sans-serif;font-size: 18px;color: #FFFFFF;border-style: solid;border-color: #1195BF;border-width: 10px 20px;display: inline-block;background: #1195BF;border-radius: 12px;font-weight: normal;font-style: normal;line-height: 22px;width: auto;text-align: center;">Click to Sign Up</a></span></td> 
+            
+        </tr>
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnImageBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class="mcnImageBlockOuter">
+            <tr>
+                <td valign="top" style="padding: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" class="mcnImageBlockInner">
+                    <table align="left" width="100%" border="0" cellpadding="0" cellspacing="0" class="mcnImageContentContainer" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                        <tbody><tr>
+                            <td class="mcnImageContent" valign="top" style="padding-right: 9px;padding-left: 9px;padding-top: 0;padding-bottom: 0;text-align: center;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                
+                                    
+                                        <img align="center" alt="" src="https://mcusercontent.com/0a624a163c28e478ac564b442/images/9bd86198-9eac-4bba-851d-029d0b07fe9e.png" width="564" style="max-width: 815px;padding-bottom: 0;display: inline !important;vertical-align: bottom;border: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" class="mcnImage">
+                                    
+                                
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+    </tbody>
+</table></td>
+                                        </tr>
+                                    </table>
+                                    <!--[if (gte mso 9)|(IE)]>
+                                    </td>
+                                    </tr>
+                                    </table>
+                                    <![endif]-->
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center" valign="top" id="templateFooter" style="background:#FAFAFA none no-repeat center/cover;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #FAFAFA;background-image: none;background-repeat: no-repeat;background-position: center;background-size: cover;border-top: 0;border-bottom: 0;padding-top: 9px;padding-bottom: 9px;">
+                                    <!--[if (gte mso 9)|(IE)]>
+                                    <table align="center" border="0" cellspacing="0" cellpadding="0" width="600" style="width:600px;">
+                                    <tr>
+                                    <td align="center" valign="top" width="600" style="width:600px;">
+                                    <![endif]-->
+                                    <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" class="templateContainer" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;max-width: 600px !important;">
+                                        <tr>
+                                            <td valign="top" class="footerContainer" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnFollowBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class="mcnFollowBlockOuter">
+        <tr>
+            <td align="center" valign="top" style="padding: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" class="mcnFollowBlockInner">
+                <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnFollowContentContainer" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody><tr>
+        <td align="center" style="padding-left: 9px;padding-right: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+            <table border="0" cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" class="mcnFollowContent">
+                <tbody><tr>
+                    <td align="center" valign="top" style="padding-top: 9px;padding-right: 9px;padding-left: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                        <table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                            <tbody><tr>
+                                <td align="center" valign="top" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                    <!--[if mso]>
+                                    <table align="center" border="0" cellspacing="0" cellpadding="0">
+                                    <tr>
+                                    <![endif]-->
+                                    
+                                        <!--[if mso]>
+                                        <td align="center" valign="top">
+                                        <![endif]-->
+                                        
+                                        
+                                            <table align="left" border="0" cellpadding="0" cellspacing="0" style="display: inline;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                                <tbody><tr>
+                                                    <td valign="top" style="padding-right: 10px;padding-bottom: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" class="mcnFollowContentItemContainer">
+                                                        <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnFollowContentItem" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                                            <tbody><tr>
+                                                                <td align="left" valign="middle" style="padding-top: 5px;padding-right: 10px;padding-bottom: 5px;padding-left: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                                                    <table align="left" border="0" cellpadding="0" cellspacing="0" width="" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                                                        <tbody><tr>
+                                                                            
+                                                                                <td align="center" valign="middle" width="24" class="mcnFollowIconContent" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                                                                    <a href="https://www.facebook.com/WalterNewsletter" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><img src="https://cdn-images.mailchimp.com/icons/social-block-v2/color-facebook-48.png" alt="Facebook" style="display: block;border: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" height="24" width="24" class=""></a>
+                                                                                </td>
+                                                                            
+                                                                            
+                                                                        </tr>
+                                                                    </tbody></table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody></table>
+                                                    </td>
+                                                </tr>
+                                            </tbody></table>
+                                        
+                                        <!--[if mso]>
+                                        </td>
+                                        <![endif]-->
+                                    
+                                        <!--[if mso]>
+                                        <td align="center" valign="top">
+                                        <![endif]-->
+                                        
+                                        
+                                            <table align="left" border="0" cellpadding="0" cellspacing="0" style="display: inline;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                                <tbody><tr>
+                                                    <td valign="top" style="padding-right: 10px;padding-bottom: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" class="mcnFollowContentItemContainer">
+                                                        <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnFollowContentItem" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                                            <tbody><tr>
+                                                                <td align="left" valign="middle" style="padding-top: 5px;padding-right: 10px;padding-bottom: 5px;padding-left: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                                                    <table align="left" border="0" cellpadding="0" cellspacing="0" width="" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                                                        <tbody><tr>
+                                                                            
+                                                                                <td align="center" valign="middle" width="24" class="mcnFollowIconContent" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                                                                    <a href="http://www.thisiswalter.com" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><img src="https://cdn-images.mailchimp.com/icons/social-block-v2/color-link-48.png" alt="Website" style="display: block;border: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" height="24" width="24" class=""></a>
+                                                                                </td>
+                                                                            
+                                                                            
+                                                                        </tr>
+                                                                    </tbody></table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody></table>
+                                                    </td>
+                                                </tr>
+                                            </tbody></table>
+                                        
+                                        <!--[if mso]>
+                                        </td>
+                                        <![endif]-->
+                                    
+                                        <!--[if mso]>
+                                        <td align="center" valign="top">
+                                        <![endif]-->
+                                        
+                                        
+                                            <table align="left" border="0" cellpadding="0" cellspacing="0" style="display: inline;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                                <tbody><tr>
+                                                    <td valign="top" style="padding-right: 0;padding-bottom: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" class="mcnFollowContentItemContainer">
+                                                        <table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnFollowContentItem" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                                            <tbody><tr>
+                                                                <td align="left" valign="middle" style="padding-top: 5px;padding-right: 10px;padding-bottom: 5px;padding-left: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                                                    <table align="left" border="0" cellpadding="0" cellspacing="0" width="" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                                                        <tbody><tr>
+                                                                            
+                                                                                <td align="center" valign="middle" width="24" class="mcnFollowIconContent" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                                                                    <a href="mailto:feedback@thisiswalter.com" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><img src="https://cdn-images.mailchimp.com/icons/social-block-v2/color-forwardtofriend-48.png" alt="Feedback Email" style="display: block;border: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" height="24" width="24" class=""></a>
+                                                                                </td>
+                                                                            
+                                                                            
+                                                                        </tr>
+                                                                    </tbody></table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody></table>
+                                                    </td>
+                                                </tr>
+                                            </tbody></table>
+                                        
+                                        <!--[if mso]>
+                                        </td>
+                                        <![endif]-->
+                                    
+                                    <!--[if mso]>
+                                    </tr>
+                                    </table>
+                                    <![endif]-->
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>
+</tbody></table>
+
+            </td>
+        </tr>
+    </tbody>
+</table><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnTextBlock" style="min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class="mcnTextBlockOuter">
+        <tr>
+            <td valign="top" class="mcnTextBlockInner" style="padding-top: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+              	<!--[if mso]>
+				<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+				<tr>
+				<![endif]-->
+			    
+				<!--[if mso]>
+				<td valign="top" width="600" style="width:600px;">
+				<![endif]-->
+                <table align="left" border="0" cellpadding="0" cellspacing="0" style="max-width: 100%;min-width: 100%;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%" class="mcnTextContentContainer">
+                    <tbody><tr>
+                        
+                        <td valign="top" class="mcnTextContent" style="padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: #656565;font-family: Helvetica;font-size: 12px;line-height: 150%;text-align: center;">
+                        
+                            <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">Update your <a href="*|UPDATE_PROFILE|*" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #656565;font-weight: normal;text-decoration: underline;">email preferences</a> or <a href="*|UNSUB|*" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #656565;font-weight: normal;text-decoration: underline;">unsubscribe here</a>.<br>
+View our privacy policy <a href="https://www.thisiswalter.com/privacy" target="_blank" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #656565;font-weight: normal;text-decoration: underline;">here</a>.<br>
+Copyright ©2020 Walter. All rights reserved.<br>
+28 Liberty Street, Suite #6000, New York, NY 10038
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+                
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                                        </tr>
+                                    </table>
+                                    <!--[if (gte mso 9)|(IE)]>
+                                    </td>
+                                    </tr>
+                                    </table>
+                                    <![endif]-->
+                                </td>
+                            </tr>
+                        </table>
+                        <!-- // END TEMPLATE -->
+                    </td>
+                </tr>
+            </table>
+        </center>
+    </body>
+</html>
